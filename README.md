@@ -29,14 +29,11 @@
  <!--START_SECTION:waka-->
 
 ```text
-From: 15 November 2022 - To: 16 November 2022
+From: 16 November 2022 - To: 17 November 2022
 
-Total Time: 37 mins
+Total Time: 5 hrs 24 mins
 
-JavaScript   28 mins         ███████████████████▒░░░░░   76.73 %
-JSON         4 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.86 %
-Git Config   3 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.06 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+JavaScript   5 hrs 24 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
