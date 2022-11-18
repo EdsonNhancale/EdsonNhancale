@@ -43,8 +43,6 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
 
 <div> 
   <a href="www.linkedin.com/in/edson-nhancale-7849781a6" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/EdsonNhancale/EdsonNhancale/blob/output/github-contribution-grid-snake.svg)
- 
+
 </div>
 
