@@ -28,6 +28,14 @@
  
  <!--START_SECTION:waka-->
 
+```text
+From: 16 November 2022 - To: 17 November 2022
+
+Total Time: 5 hrs 24 mins
+
+JavaScript   5 hrs 24 mins   █████████████████████████   100.00 %
+```
+
 <!--END_SECTION:waka-->
 
 <div> 
