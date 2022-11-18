@@ -3,7 +3,7 @@
   <br/>
 </div>
 
-## Hello there👋, I'm Celso 
+## Hello there👋, I'm Edson 
 
 #### 🔭 I’m currently working with React js and Spring boot 
 #### 🌱 I’m currently learning ui/ux design and spring security
@@ -46,8 +46,7 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 <div> 
-  <a href="https://www.youtube.com/channel/UCCJxgXrV3x_lc4Gw5ogynew" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="www.linkedin.com/in/celso-momade" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="www.linkedin.com/in/edson-nhancale-7849781a6" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/EdsonNhancale/EdsonNhancale/blob/output/github-contribution-grid-snake.svg)
  
