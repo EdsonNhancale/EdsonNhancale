@@ -6,7 +6,6 @@
 ---
     
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=EdsonNhancale&margin-w=10&margin-h=10&column=4)](https://github.com/ryo-ma/github-profile-trophy)  
 
  <p align="left">
   <a href="https://github.com/EdsonNhancale">
@@ -17,9 +16,7 @@
   <p align="left">
     <a href="https://github.com/EdsonNhancale"><img width=55% alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=EdsonNhancale&theme=dracula"/></a>
    </p>
-   
- 
- [![Amogh's github activity graph](https://activity-graph.herokuapp.com/graph?username=EdsonNhancale&bg_color=111111&color=3620f7&line=5a0c99&point=1adbce&area=true&hide_border=true)](https://github.com/EdsonNhancale/github-readme-activity-graph)
+
  
  <!--START_SECTION:waka-->
 
