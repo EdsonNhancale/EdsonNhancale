@@ -21,16 +21,16 @@
  <!--START_SECTION:waka-->
 
 ```text
-From: 16 November 2022 - To: 11 January 2023
+From: 16 November 2022 - To: 12 January 2023
 
-Total Time: 100 hrs 33 mins
+Total Time: 109 hrs 5 mins
 
-JavaScript       74 hrs 20 mins  ██████████████████▒░░░░░░   73.93 %
-Dart             14 hrs 6 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.03 %
-Java             6 hrs 41 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.66 %
-JSON             2 hrs 11 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
-YAML             1 hr 12 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
-XML              35 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
+JavaScript       80 hrs 3 mins   ██████████████████▒░░░░░░   73.39 %
+Dart             14 hrs 6 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.94 %
+Java             6 hrs 41 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.14 %
+JSON             2 hrs 14 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
+PHP              2 hrs           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
+HTML             1 hr 23 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
 ```
 
 <!--END_SECTION:waka-->
