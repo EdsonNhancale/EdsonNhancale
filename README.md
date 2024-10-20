@@ -21,14 +21,14 @@
  <!--START_SECTION:waka-->
 
 ```txt
-From: 16 November 2022 - To: 17 October 2024
+From: 16 November 2022 - To: 18 October 2024
 
-Total Time: 1,155 hrs 43 mins
+Total Time: 1,155 hrs 54 mins
 
-TypeScript        520 hrs 39 mins ███████████▒░░░░░░░░░░░░░   45.05 %
-JavaScript        459 hrs 58 mins ██████████░░░░░░░░░░░░░░░   39.80 %
-JSON              67 hrs 3 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.80 %
-Other             17 hrs 37 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
+TypeScript        520 hrs 42 mins ███████████▒░░░░░░░░░░░░░   45.05 %
+JavaScript        459 hrs 58 mins ██████████░░░░░░░░░░░░░░░   39.79 %
+JSON              67 hrs 11 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.81 %
+Other             17 hrs 37 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
 Dart              14 hrs 23 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
 ```
 
